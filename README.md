@@ -18,10 +18,10 @@ Radiology Engine Pro provides clear, actionable clinical status indicators that 
 The system automatically categorizes pathologies into three distinct risk levels based on architectural confidence:
 
 | Status | Icon | Description | Action Recommendation |
-| : --- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- |
 | **Stable** | 🟢 | Low probability of finding detected. | Routine follow-up. |
 | **Observe** | 🟡 | Potential finding detected; model sees early patterns. | Radiologist review recommended. |
-| **Concern** | 🔴 | High clinical probability of pathology. | Urgent clinical correlation required.  |
+| **Concern** | 🔴 | High clinical probability of pathology. | Urgent clinical correlation required. |
 
 ### **Inference Examples**
 
@@ -147,15 +147,6 @@ Navigate to [http://localhost:8501](http://localhost:8501)
 | **ResNet50** | Deep CNN | 512x512 | High-resolution clinical analysis |
 | **HOG + Random Forest** | Traditional ML | Variable | Feature-engineering baseline |
 
-## 🎨 Design System
-
-### Color Palette
-| Color | Hex Code | Usage |
-|-------|----------|-------|
-| **Primary** | `#1f8dd6` | Clinical Blue |
-| **Secondary** | `#262730` | Medical Slate |
-| **Warning** | `#ff9800` | High-Alert Orange |
-| **Pathology** | `#ffffff` | Lung-Tissue White |
 
 ## 📊 Dataset Support
 
@@ -175,29 +166,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
-
-## 📚 Citation
-
-If you use this project in your research, please cite:
-
-```bibtex
-@software{deep_learning_chest_xray,
-  author = {cs23b2009},
-  title = {Deep Learning Chest X-Ray Analysis},
-  year = {2025},
-  url = {https://github.com/cs23b2009/Deep-Learning-Chest-XRay}
-}
-```
-
-## 🙏 Acknowledgments
-
-- Based on research from jfhealthcare's Chexpert implementation
-- Built on top of PyTorch and Streamlit frameworks
-- Inspired by the medical AI research community
 
 ---
 
