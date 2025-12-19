@@ -23,11 +23,13 @@ The system automatically categorizes pathologies into three distinct risk levels
 
 ### **Inference Examples**
 
-````carousel
 ![Clinical Concern Dashboard](docs/screenshots/clinical_concern.png)
-<!-- slide -->
+
+*Figure 1: High Clinical Concern case showing multiple pathologies.*
+
 ![Stable Case Dashboard](docs/screenshots/stable_normal.png)
-````
+
+*Figure 2: Stable/Normal case with low probability scores.*
 
 ## 🚀 Key Features
 
