@@ -1,0 +1,12 @@
+streamlit
+torch
+torchvision
+numpy
+pandas
+scikit-image
+opencv-python-headless
+imageio
+requests
+tqdm
+joblib
+scikit-learn
