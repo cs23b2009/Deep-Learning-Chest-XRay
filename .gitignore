@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Project Specific
+*.pt
+*.pth
+*.pkl
+*.zip
+*.gz
+models_data/
+.radiology_engine/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Experiments & Temp
+test_load.py
+brain/
+docs/screenshots/ # Keep images in Git LFS if needed, but for now we keep small images
