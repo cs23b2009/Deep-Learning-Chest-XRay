@@ -4,10 +4,6 @@
 
 Radiology Engine Pro is a comprehensive analytics and clinical decision support platform designed for radiologists and medical researchers. It provides real-time insights, intelligent pathological classification, and detailed performance comparison between classical Computer Vision and modern Deep Learning architectures.
 
-Live Demo: [https://radiology-engine-demo.onrender.com/](https://radiology-engine-demo.onrender.com/)
-
-![Radiology Engine Dashboard](docs/screenshots/clinical_concern.png)
-
 ## 🩺 Dashboard in Action
 
 Radiology Engine Pro provides clear, actionable clinical status indicators that simplify medical imaging interpretation. 
