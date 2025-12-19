@@ -39,23 +39,11 @@ The system automatically categorizes pathologies into three distinct risk levels
 
 ## 🚀 Key Features
 
-### 🎯 **Smart Clinical Analysis**
-- ✅ Real-time chest X-ray classification for 18+ pathologies
-- ✅ Side-by-side comparison: Traditional ML (HOG) vs. Deep Learning (DenseNet121)
-- ✅ Intelligent pathological feature highlighting
-- ✅ Clinical confidence scoring and probability distributions
-
-### 📊 **Advanced Analytics**
-- 📈 Comparative performance benchmarking (Deep Learning vs. Traditional ML)
-- 📉 Historical trend analysis for medical imaging datasets
-- 🔄 Multi-dataset normalization (NIH, CheXpert, PadChest, MIMIC-CXR)
-- 🎯 High-fidelity metrics (AUC: 0.92-0.95 for key pathologies)
-
-### 🎨 **Modern User Experience**
-- 💻 Professional medical dashboard interface
-- 🌓 Dark/Light theme specialized for clinical environments
-- 📱 Responsive design for mobile and tablet review
-- 📊 Interactive probability bars and model confidence visualizations
+* **AI Diagnostics:** Real-time detection for 18+ pathologies with feature highlighting.
+* **Dual-Model Engine:** Comparative analysis between **DenseNet121** and **HOG** frameworks.
+* **High-Fidelity Metrics:** Achieves **0.92–0.95 AUC** across NIH, CheXpert, and MIMIC-CXR.
+* **Unified Pipeline:** Multi-dataset normalization and historical trend analysis.
+* **Clinical UI:** Responsive, medical-grade dashboard with interactive confidence metrics.
 
 ## 📈 Performance Benchmarks
 
